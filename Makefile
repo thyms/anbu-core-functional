@@ -7,7 +7,7 @@ test-app:
 	./gradlew clean test
 
 test-app-ci:
-	./gradlew clean test -Dtest.env=functional01
+	./gradlew clean test -Dtest.env=func01
 
 setup-project:
 	echo 'No configuration to setup for this project'

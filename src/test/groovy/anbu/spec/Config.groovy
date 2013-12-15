@@ -4,7 +4,7 @@ core {
 }
 
 environments {
-  functional01 {
+  func01 {
     core {
       baseUrl = "http://anbu-core-func01.herokuapp.com/"
       baseContext = "/"
