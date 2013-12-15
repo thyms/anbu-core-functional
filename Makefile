@@ -9,7 +9,7 @@ test-app:
 test-app-ci:
 	./gradlew clean test -Dtest.env=functional01
 
-setup-app:
+setup-project:
 	echo 'No configuration to setup for this project'
 
 .PHONY: no_targets__ list
